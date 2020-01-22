@@ -29,7 +29,7 @@ There is 6 python files to use:
 	After entering the money and the bet you want to make, click on "PARIER" which means "bet" and close the window.
 	The teams, the money will be saved in PariMoi.pickle
 	
-5-NeuralNetwork.py:
+5-NeuralNetwork2.py:
 	Here is the main program that calculate which teams you need to bet on (There are 4 differents lists that I'll explain you after).
 	Make sure you have already updated ScraperCalender2019-2020.py and ScrappingDataNBA2019-2020.py because it will use informations from it.
 	When you run the program it will ask you first "Nombre de matchs" which means "Number of games" so you enter the number of games of the day you are. 
